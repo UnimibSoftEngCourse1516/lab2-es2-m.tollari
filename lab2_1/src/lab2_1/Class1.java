@@ -4,5 +4,9 @@ public class Class1 {
 	public static void main (String[] args){
 	//YOYO	
 	}
+	
+	public void secondMethod(){
+		
+	}
 
 }
